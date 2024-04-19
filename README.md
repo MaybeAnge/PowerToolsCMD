@@ -30,6 +30,7 @@ Download or Clone this repository
 ## 🧵 License
 
 License: All Rights Reserved
+**DMCA Protected**
 
 Copyright Maybe Ange™ Corporation © 2023. All rights reserved.
 
@@ -40,8 +41,6 @@ The content of this script may not be reproduced, distributed, modified, publicl
 The names, logos, and trademarks of Maybe Ange™ Corporation are the exclusive property of Maybe Ange™ Corporation and may not be used without the prior written permission of Maybe Ange™ Corporation. Any unauthorized use of these names, logos, and company is a violation of copyright and company rights and may result in legal action.
 
 By using this script, you agree to respect the copyrights and trademarks of Maybe Ange™ Corporation. If you have any questions or concerns regarding Maybe Ange™ Corporation copyrights or trademarks, please contact our teams at the following email address: contact.support@maybe-ange.com
-
-**DMCA Protected**
 
 
 ## 🎖️ Authors
