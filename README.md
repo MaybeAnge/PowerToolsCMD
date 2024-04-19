@@ -30,6 +30,7 @@ Download or Clone this repository
 ## 🧵 License
 
 License: All Rights Reserved
+
 **DMCA Protected**
 
 Copyright Maybe Ange™ Corporation © 2023. All rights reserved.
