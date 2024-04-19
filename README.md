@@ -41,6 +41,8 @@ The names, logos, and trademarks of Maybe Ange™ Corporation are the exclusive 
 
 By using this script, you agree to respect the copyrights and trademarks of Maybe Ange™ Corporation. If you have any questions or concerns regarding Maybe Ange™ Corporation copyrights or trademarks, please contact our teams at the following email address: contact.support@maybe-ange.com
 
+**DMCA Protected**
+
 
 ## 🎖️ Authors
 
