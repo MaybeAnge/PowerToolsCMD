@@ -1,7 +1,7 @@
 
 # PowerToolsCMD
 
-PowerToolsCMD is a comprehensive suite of command-line tools designed for system administrators and technology professionals. With a range of integrated features, this suite provides quick and efficient access to powerful tools for managing and maintaining IT systems.
+PowerToolsCMD is a suite of command-line tools designed for system administrators. The commands provide quick and efficient access to powerful tools for managing and maintaining IT systems.
 
 This project was carried out during an exercise with CEFIM in Orléans (France)
 
