@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MaybeAnge/Images/blob/main/PowerTools.png"
+  <img src="https://github.com/MaybeAnge/Images/blob/main/PowerTools.png" style="width: 50%;">
 </p>
 
 # PowerToolsCMD
