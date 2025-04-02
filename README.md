@@ -47,6 +47,5 @@ By using this script, you agree to respect the copyrights and trademarks of Mayb
 ## 🎖️ Authors
 
 - WebSite: https://maybe-ange.com
-- Discord: https://discord.gg/maybe-ange
 - Instagram: https://www.instagram.com/maybe.ange/
 
